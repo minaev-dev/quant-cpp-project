@@ -7,6 +7,7 @@ C++17 проект для количественного анализа.
 * `bench/` — бенчмарки
 
 ## Сборка
+```bash
 cmake -B build -DCMAKE_BUILD_TYPE=Release
 cmake --build build -j
 
